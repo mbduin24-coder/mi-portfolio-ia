@@ -22,3 +22,7 @@ AI tools portfolio: installation and use of Cursor IDE, Claude Code and Codex as
 - **Git not found error**: When trying to clone the repository, Cursor showed "command 'git.clone' not found". I solved this by downloading and installing Git from git-scm.com and restarting Cursor.
 - **Broken desktop shortcut**: After reinstalling Cursor, the desktop shortcut stopped working. I deleted it and launched Cursor from the Start menu instead.
 - **GitHub authentication**: Cursor required a one-time code to connect to GitHub. I copied the code, pasted it on GitHub's authorization page, and successfully linked both tools.
+## About me
+I'm Maria Duin, a creative professional exploring AI tools and their applications in real-world workflows.
+
+ Portfolio: [mariaduin.myportfolio.com](https://mariaduin.myportfolio.com/)
