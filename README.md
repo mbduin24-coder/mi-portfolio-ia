@@ -26,3 +26,30 @@ AI tools portfolio: installation and use of Cursor IDE, Claude Code and Codex as
 I'm Maria Duin, a creative professional exploring AI tools and their applications in real-world workflows.
 
  Portfolio: [mariaduin.myportfolio.com](https://mariaduin.myportfolio.com/)
+
+## Research Project: LinkedIn Organic Content Strategy for B2B SaaS
+
+### Topic chosen
+LinkedIn Organic Content Strategy for B2B SaaS
+
+### Why this topic
+As a Creative and Art Director with a strategic mindset, I chose this topic because LinkedIn organic content is one of the most powerful and underutilized channels for B2B SaaS companies. Understanding how top creators build audiences and generate leads organically is essential for any modern marketing strategy.
+
+### Experts selected
+I researched 10 experts who actually practice what they teach — not just writers about LinkedIn, but people who built real businesses through it:
+
+- Justin Welsh — Built a  solopreneur business entirely through LinkedIn content
+- Richard van der Blom — Publishes annual algorithm research based on millions of posts
+- Jasmin Alic — Top LinkedIn copywriter, known for high-engagement B2B posts
+- Katelyn Bourgoin — Buyer psychology expert, helps SaaS companies understand their customers
+- Chris Donnelly — Grew from 20K to 1.2M followers, drives millions in revenue via LinkedIn
+- Sam Szuchan — Founder of Soleo, expert in narrative infrastructure and brand positioning
+- Hailey Friedman — Growth marketer specializing in SEO and paid strategy for SaaS startups
+- Adam Robinson — CEO of RB2B, scaled SaaS to  ARR using LinkedIn as main acquisition channel
+- Lara Acosta — #1 female creator on LinkedIn in 2023, founder of Literally Academy
+- Jorge Branger — Leading Spanish-speaking LinkedIn B2B influencer
+
+### What was collected
+- 3 LinkedIn posts per expert (30 posts total)
+- Organized by author in /research/linkedin-posts/
+- Full source list with profiles and annotations in /research/sources.md
